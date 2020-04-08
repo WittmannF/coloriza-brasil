@@ -9,6 +9,9 @@ https://WittmannF.github.io/coloriza-brasil/
 # Coloriza Brasil
 
 _criado com [fastpages](https://github.com/fastai/fastpages)_
+#### Pixinguinha - maestro, flautista, saxofonista, compositor e arranjador brasileiro (1897 — 1973)
+![](https://github.com/WittmannF/coloriza-brasil/blob/master/_notebooks/images/pixinguinha-capa.png)
+
 
 ### Envio de Sugestões
 - fernandomwittmann@gmail.com
