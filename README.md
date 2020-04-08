@@ -7,7 +7,7 @@
 https://WittmannF.github.io/coloriza-brasil/
 
 # Coloriza Brasil
-Imagens históricas do Brasil colorizadas com redes neurais
+Fotos históricas do Brasil colorizadas com redes neurais
 
 ![](https://raw.githubusercontent.com/WittmannF/coloriza-brasil/master/_notebooks/images/pixinguinha-capa.png)
 > _**Pixinguinha - maestro, flautista, saxofonista, compositor e arranjador brasileiro (1897 — 1973)**_
@@ -15,9 +15,3 @@ Imagens históricas do Brasil colorizadas com redes neurais
 - Rede Neural utilizada para colorização desenvolvida e disponibilizada por **Jason Antic**: [github.com/jantic/DeOldify](https://github.com/jantic/DeOldify)
 - Como colorizar suas próprias imagens: [youtube.com/watch?v=gESIzUKG6io](https://www.youtube.com/watch?v=gESIzUKG6io)
 
-
-### Envio de Sugestões
-- fernandomwittmann@gmail.com
-
-### Sobre as Imagens
-- Todas as imagens foram encontradas pela internet, não retenho direitos autorais de nenhuma delas. Caso ache que alguma imagem não deveria estar no site, favor enviar email para: fernandomwittmann@gmail.com
