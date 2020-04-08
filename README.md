@@ -12,3 +12,6 @@ _criado com [fastpages](https://github.com/fastai/fastpages)_
 
 ### Envio de Sugestões
 - fernandomwittmann@gmail.com
+
+### Sobre as Imagens
+- Todas as imagens foram encontradas pela internet, não retenho direitos autorais de nenhuma delas. Caso ache que alguma imagem não deveria estar no site, favor enviar email para: fernandomwittmann@gmail.com
