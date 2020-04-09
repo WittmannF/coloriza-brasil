@@ -3,11 +3,14 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-Desenvolvido por: Fernando Marcos Wittmann
+Desenvolvido por **Fernando Marcos Wittmann**
 - Github: https://github.com/WittmannF/coloriza-brasil
-- LinkedIn: https://br.linkedin.com/in/fernandowittmann
 
-Website desenvolvido com o uso de **[fastpages](https://github.com/fastai/fastpages)** [^1].
+- Redes neurais pré-treinadas a partir do projeto DeOldify (MIT License): [github.com/jantic/DeOldify](https://github.com/jantic/DeOldify)
+
+- Aprenda a colorizar suas próprias imagens: [youtube.com/watch?v=gESIzUKG6io](https://www.youtube.com/watch?v=gESIzUKG6io)
+
+- Website desenvolvido com o uso de **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
 ### Envio de Sugestões
 - fernandomwittmann@gmail.com
