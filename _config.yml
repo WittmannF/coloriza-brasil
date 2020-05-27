@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: coloriza-brasil
-description: Imagens históricas do Brasil em cores
+description: Imagens históricas em cores
 github_username: WittmannF
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "coloriza-brasil"
