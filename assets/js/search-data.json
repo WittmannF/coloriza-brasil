@@ -1,11 +1,22 @@
 {
   
+    
+        "post0": {
+            "title": "Pets na Gripe Espanhola",
+            "content": ". Pet 1 . Pet 2 . Pet 3 .",
+            "url": "https://wittmannf.github.io/coloriza-brasil/pandemia/2020/06/01/pets-gripe-espanhola.html",
+            "relUrl": "/pandemia/2020/06/01/pets-gripe-espanhola.html",
+            "date": " • Jun 1, 2020"
+        }
+        
+    
+  
 
   
   
 
   
-      "page1": {
+      ,"page1": {
           "title": "About Me",
           "content": "Desenvolvido por Fernando Marcos Wittmann . Github: https://github.com/WittmannF/coloriza-brasil . | Redes neurais pré-treinadas a partir do projeto DeOldify (MIT License): github.com/jantic/DeOldify . | Aprenda a colorizar suas próprias imagens: youtube.com/watch?v=gESIzUKG6io . | Website desenvolvido com o uso de fastpages [^1]. . | . Envio de Sugestões . fernandomwittmann@gmail.com | . Sobre as Imagens . Todas as imagens foram encontradas pela internet, não retenho direitos autorais de nenhuma delas. Caso ache que alguma imagem não deveria estar no site, favor enviar email para: fernandomwittmann@gmail.com | .",
           "url": "https://wittmannf.github.io/coloriza-brasil/about/",
