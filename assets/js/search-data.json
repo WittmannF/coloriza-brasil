@@ -46,17 +46,6 @@
   
     
         ,"post4": {
-            "title": "India",
-            "content": ". !wget https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py . --2020-07-07 22:07:55-- https://raw.githubusercontent.com/awarischool/br-data-science/master/image-colorizer/deoldify_wrapper.py Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ... Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected. HTTP request sent, awaiting response... 200 OK Length: 2614 (2.6K) [text/plain] Saving to: ‘deoldify_wrapper.py’ deoldify_wrapper.py 100%[===================&gt;] 2.55K --.-KB/s in 0s 2020-07-07 22:07:55 (43.7 MB/s) - ‘deoldify_wrapper.py’ saved [2614/2614] . from deoldify_wrapper import DeOldify .",
-            "url": "https://wittmannf.github.io/coloriza-brasil/india/face/pintura/2020/07/08/India.html",
-            "relUrl": "/india/face/pintura/2020/07/08/India.html",
-            "date": " • Jul 8, 2020"
-        }
-        
-    
-  
-    
-        ,"post5": {
             "title": "Title",
             "content": "Noite de Inverno em Woodstock (1940) . Nevasca no centro de Woodstock, Vermont . toc:false- branch: master | badges: true | comments: true | Author: Gabriel Espinola | categories: [Vermont, neve, inverno, Woodstock] | . Fonte .",
             "url": "https://wittmannf.github.io/coloriza-brasil/2020/07/07/noite-de-inverno-woodstock.html",
@@ -67,7 +56,7 @@
     
   
     
-        ,"post6": {
+        ,"post5": {
             "title": "Title",
             "content": "Lugar Paradis&#237;aco . Utilizando fotografia dessaturada e depois colorizada. . toc:false- branch: master | badges: true | comments: true | author: Leandro Mestrinare | categories: [paisagem, mar, viagem] | . Link da Imagem .",
             "url": "https://wittmannf.github.io/coloriza-brasil/2020/07/07/ldx_paisagem_v2.html",
@@ -78,7 +67,7 @@
     
   
     
-        ,"post7": {
+        ,"post6": {
             "title": "Crianças brincando com bolas de gude",
             "content": ".",
             "url": "https://wittmannf.github.io/coloriza-brasil/criancas/brincando/bolas-de-gude/2020/07/07/criancas-brincando.html",
@@ -89,7 +78,7 @@
     
   
     
-        ,"post8": {
+        ,"post7": {
             "title": "Classicos do terror colorizados",
             "content": "The Horror of Dracula (1958) -Fonte | . Frankenstein (1931) -Fonte | . Psycho (1960) -Fonte | . The Phantom of the Opera (1925) -Fonte | . Eraserhead (1977) -Fonte | . Invasion of the Body Snatchers (1956) -Fonte | .",
             "url": "https://wittmannf.github.io/coloriza-brasil/terror/deep-learning/ai/2020/07/07/classicos-do-terror.html",
@@ -100,7 +89,7 @@
     
   
     
-        ,"post9": {
+        ,"post8": {
             "title": "Soldado da Guerra",
             "content": ".",
             "url": "https://wittmannf.github.io/coloriza-brasil/soldado/guerra/2020/07/07/Post_Soldado_Guerra.html",
@@ -111,7 +100,7 @@
     
   
     
-        ,"post10": {
+        ,"post9": {
             "title": "Ensinando a andar de Bicicleta",
             "content": "",
             "url": "https://wittmannf.github.io/coloriza-brasil/criancas/bicicleta/brincadeira/2020/07/07/Aprendendo-Andar-Bicicleta.html",
@@ -122,7 +111,7 @@
     
   
     
-        ,"post11": {
+        ,"post10": {
             "title": "Curitiba de 1950 a 1970",
             "content": ". Vista de um bairro, 1955 . Pra&#231;a Tiradentes, 1959 . Biblioteca Municipal, 1959 . Pra&#231;a Dezenove de Dezembro, 1965 . Pra&#231;a Generoso Marques, 1972 . Vista do Centro, 1972 . Pra&#231;a Tiradentes, 1972 .",
             "url": "https://wittmannf.github.io/coloriza-brasil/2020/06/05/curitiba-1950-70.html",
@@ -133,7 +122,7 @@
     
   
     
-        ,"post12": {
+        ,"post11": {
             "title": "Rio de Janeiro antigo",
             "content": "Rua da Quitanda . Fonte: diariodorio.com | . Bondinho do P&#227;o de A&#231;&#250;car . Fonte: pinterest | . Carnaval . Fonte: gshow | . Cais do Valongo . Fonte: Fiocruz | . Também disponível em: https://github.com/rogerkrw/coloriza-brasil .",
             "url": "https://wittmannf.github.io/coloriza-brasil/fotos%20colorizadas/2020/06/04/rio-de-janeiro-antigo.html",
@@ -144,7 +133,7 @@
     
   
     
-        ,"post13": {
+        ,"post12": {
             "title": "Município de Jacareí, SP",
             "content": ". Igreja Matriz . Par&#243;quia Imaculada Concei&#231;&#227;o : Jacare&#237;, SP . F&#225;brica de biscoitos Jacare&#237; Ltda. fundada em 1899 (SP) - 1958 . Pra&#231;a dos Tr&#234;s Poderes . Prefeitura de Jacare&#237;, SP . Santa Casa de Miseric&#243;rdia . Pra&#231;a do Rio Branco : Jacare&#237;, SP . Lateral da pra&#231;a Conde Frontim . Esquina da Pra&#231;a Raul Chaves com Conde Frontim, vendo-se a Igreja da Sant&#237;ssima Trindade na cidade de Jacare&#237; (SP) - 1958 . Fonte . https://cidades.ibge.gov.br/brasil/sp/jacarei/historico .",
             "url": "https://wittmannf.github.io/coloriza-brasil/cidade/2020/06/04/municipio-jacarei-sp.html",
@@ -155,7 +144,7 @@
     
   
     
-        ,"post14": {
+        ,"post13": {
             "title": "O Farol",
             "content": ". Descrição : Filme recente passado todo em preto e branco com apenas dois protagonistas. | Fonte : https://www.updateordie.com/2020/01/07/o-farol-esta-quebrado/ | . Descrição : Sereia do mal | Fonte : Canal Tech https://canaltech.com.br/cinema/critica-o-farol-158536/ | . deo.colorize (&quot;https://imagens.canaltech.com.br/284017.533049-O-Farol.jpg&quot;) . Descrição : Pensando na fuga | Fonte : https://www.legiaodosherois.com.br/2020/critica-o-farol-e-um-delirio-comico-e-grotesco.html | . Descrição : O contratante pensando em como segurar o funcionário no Farol. | Fonte : https://www.rogerlerina.com.br/post/15825/o-farol-lanca-luz-para-alem-do-cinema-de-terror | . Descrição : Foto da capa do DVD. | Fonte : https://clubedaspipocas.com.br/noticias/o-farol-l-home-video-ganha-data-de-lancamento/ | . deo.colorize (&quot;https://clubedaspipocas.com.br/wp-content/uploads//2019/11/the-lighthouse-blu-ray-cover-robert-pattinson-1197558.jpeg&quot;) .",
             "url": "https://wittmannf.github.io/coloriza-brasil/cinema/2020/06/04/farol.html",
@@ -166,7 +155,7 @@
     
   
     
-        ,"post15": {
+        ,"post14": {
             "title": "Colorizando imagens de Animais Selvagens",
             "content": "M&#227;e e filho elefantes na &#193;frica em 2017 . Fonte: https://yaffa-cdn.s3.amazonaws.com/yaffadsp/images/dmImage/StandardImage/bw_series_of_the_year_2017_03.jpg . Vida selvagem . Fonte: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/african-wildlife-at-the-waterhole-in-black-and-white-gill-billington.jpg . Le&#227;o . Fonte: https://luminous-landscape.com/wp-content/uploads/2015/03/200932.jpg . Girafas . Fonte: https://i.pinimg.com/originals/b3/f8/9a/b3f89a32d887087da40d858ae6cc2616.jpg .",
             "url": "https://wittmannf.github.io/coloriza-brasil/animals/2020/06/04/animais_selvagens.html",
@@ -177,7 +166,7 @@
     
   
     
-        ,"post16": {
+        ,"post15": {
             "title": "Copa do Mundo de 1970",
             "content": "Seleção Brasileira de Futebol é campeã do mundo em 1970 . Carlos Alberto Torres ergue a taça Jules Rimet . O famoso soco no ar do eterno rei da copa de 1970 . Rei Pelé celebra mais um gol com sua grande marca . Jairzinho, o craque que foi muito mais do que o Furacão . O fiel escudeiro do rei Pelé, Jairzinho é um dos grandes destaques do Brasil na Copa de 1970 . Brasil e Itália perfilados às vésperas do apito inicial para a final da Copa do Mundo de 1970 . Final da Copa de 1970 têm dois gigantes do Futebol Mundial . Com &quot;imensa satisfação&quot;, Pelé serviu Médici no ano do Tri . Encontro em Brasília, Pelé levanta a taça da Copa de 1970 ao do lado Presidente Médici . Pelé faz uma grande jogada em direção ao gol da seleção adversária . Pelé em jogo da Copa do México em 1970 . O Brasil e a brasilidade do futebol . O drible é uma marca evidente do futebol brasileiro . Fonte: . Websites Consultados: . https://infograficos.estadao.com.br/esportes/copa/2018/historia-das-copas-do-mundo-de-futebol/1970/ | http://globoesporte.globo.com/futebol/copa-do-mundo/historia/copa-do-mundo-1970-mexico.html | https://trivela.com.br/jairzinho-70-anos-o-craque-que-foi-muito-mais-que-o-furacao-da-copa/ | https://veja.abril.com.br/placar/historia-de-uma-foto-a-final-da-copa-de-70/ | http://www.espn.com.br/noticia/435393_com-imensa-satisfacao-pele-serviu-medici-no-ano-do-tri | https://www.bbc.com/portuguese/copadomundo/020307_copassabre1.shtml | https://www.sul21.com.br/colunas/bruno-lima-rocha/2018/06/o-sentido-da-brasilidade-atraves-do-futebol-e-da-selecao-resistir-e-preciso/ |",
             "url": "https://wittmannf.github.io/coloriza-brasil/esporte/2020/06/03/futebol-brasileiro-copa-1970.html",
@@ -188,7 +177,7 @@
     
   
     
-        ,"post17": {
+        ,"post16": {
             "title": "Brasil, Campeão do Mundo de 1958!",
             "content": ". Jogadores da Seleção Brasileira de 1958 . Fonte: https://conteudo.cbf.com.br . Um lance entre Brasil e França na copa de 1958 . Fonte: https://sportv.globo.com/site/programas/planeta-sportv/noticia/recordacoes-e-saudades-estadio-da-final-da-copa-de-58-e-lembrado-com-carinho.ghtml . Pelé beijando a taça de Campeão Mundial . Fonte: https://www.causaoperaria.org.br/ . Levantando a taça de Campeão Mundial de 1958 . Fonte: https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/o-gesto-de-erguer-a-taca-que-belini-eternizou-em-1958-surgiu-do-acaso . Encerramento da Copa do Mundo, Brasil campeão do mundo . Fonte: https://acervo.oglobo.globo.com/fotogalerias/brasil-campeao-do-mundo-em-58-9532310 .",
             "url": "https://wittmannf.github.io/coloriza-brasil/esporte/2020/06/03/Fotos-selecao-de-1958.html",
@@ -199,7 +188,7 @@
     
   
     
-        ,"post18": {
+        ,"post17": {
             "title": "Imagens Clássicas do Cinema",
             "content": ". Nesta atividade iremos reunir uma sequência de fotos de cor em preto e branco para torná-las coloridas. Para tal, será usado um algorítmo de Redes Neurais, cuja documentação pode ser vista no link. . Iremos então, selecionar imagens de alguns clássicos do cinema, que contará com sua foto original, a foto obtida após aplicação do algorítmo e uma breve descrição do filme em questão. . 1. Tempos Modernos (1936) . Descrição: | . Marcado pela crítica e bom humor, o filme de 1936 é um dos clássicos de Charlie Chaplin junto de O grande ditador (1940) e Luzes da Cidade (1931). . Fonte da imagem | . . 2. La Dolce Vita (1960) . Descrição: | . Uma série de histórias após uma semana na vida de um jornalista paparazzo que vive em Roma. . Fonte da imagem | . . 3. Cidad&#227;o Kane (1941) . Descrição: | . Um dos maiores clássicos do cinema, o filme dirigido e estrelado por Orson Wells conta a história do magnata Charles Foster Kane, personagem inspirado na vida do excêntrico William Randolph Hearst. . Fonte da imagem | . . 4. Ed Wood (1994) . Descrição: | . Dirigido por Tim Burton e estrelado por Johnny Depp, o filme lançado em 1994 conta a história do cineasta Ed Wood, autor do &quot;pior filme de todos os tempos&quot;: Plan 9 from Outer Space (1959). . Fonte da imagem | . . 5. Vidas Secas (1963) . Descrição: | . Inspirado na obra de Graciliano Ramos, o filme dirigido pelo cineasta brasileiro Nelson Pereira dos Santos acompanha a jornada de uma família de retirantes em busca de sobrevivência no sertão do país. . Fonte da imagem | . . 6. Os Sete Samurais (1954) . Descrição: | . Para proteger uma aldeia do ataque de bandidos, os moradores do local decidem se proteger contratando um grupo de sete antigos samurais em troca de comida. A direção do filme é de Akira Kurosawa. . Fonte da imagem | . . 7. Quanto Mais Quente Melhor (1959) . Descrição: | . Gracioso e divertido, Quanto Mais Quente Melhor é um dos trabalhos que melhor sintetizam a carreira de Marylin Monroe, como o trabalho do diretor Billy Wilder. . Fonte da imagem | .",
             "url": "https://wittmannf.github.io/coloriza-brasil/cinema/2020/06/02/imagens-classicas-cinema.html",
@@ -210,7 +199,7 @@
     
   
     
-        ,"post19": {
+        ,"post18": {
             "title": "Pets na Gripe Espanhola",
             "content": ". Pet 1 . Pet 2 . Pet 3 .",
             "url": "https://wittmannf.github.io/coloriza-brasil/pandemia/2020/06/01/pets-gripe-espanhola.html",
@@ -221,7 +210,7 @@
     
   
     
-        ,"post20": {
+        ,"post19": {
             "title": "Personalidades famosas",
             "content": ". Maysa Matarazzo . Fonte: Pinterest | . James Dean . Cena do filme “Juventude Transviada” | Fonte: Wikipedia | . Elis Regina e seus filhos . Filhos: João Marcello, Pedro e Maria Rita | Fonte: Jornal do Comércio | . Frank Sinatra e Nancy Barbato . Frank e Nancy em 23 de Outubro de 1946 | Fonte: Associated Press | . Audrey Hepburn e Gregory Peck . Audrey Hepburn e Gregory Peck no Coliseu | Fonte: Cena do filme “A Princesa e o Plebeu” (1953) | .",
             "url": "https://wittmannf.github.io/coloriza-brasil/famosos/2020/06/01/personalidades-famosas.html",
